@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "latestVersionCode": 18,
-  "latestVersionName": "0.18",
+  "latestVersionCode": 19,
+  "latestVersionName": "0.19",
   "apkUrl": "https://github.com/sikira/watchmedigi/raw/refs/heads/main/dist/v0.18/WatchMeDigi.apk",
-  "releaseNotes": "WatchMeDigi 0.18"
+  "releaseNotes": "WatchMeDigi 0.19"
 }
